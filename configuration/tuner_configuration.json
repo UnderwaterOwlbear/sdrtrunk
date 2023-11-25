@@ -6,8 +6,8 @@
     "lnagain" : "GAIN_222",
     "vgagain" : "GAIN_210",
     "sampleRate" : "RATE_2_400MHZ",
-    "uniqueID" : "RTL-2832 USB Bus:1 Port:5",
     "frequency" : 101100000,
+    "uniqueID" : "RTL-2832 USB Bus:1 Port:5",
     "frequencyCorrection" : 0.0,
     "autoPPMCorrectionEnabled" : true
   }, {
@@ -17,8 +17,8 @@
     "lnagain" : "GAIN_222",
     "vgagain" : "GAIN_210",
     "sampleRate" : "RATE_2_400MHZ",
-    "uniqueID" : "RTL-2832 USB Bus:1 Port:6",
     "frequency" : 774856250,
+    "uniqueID" : "RTL-2832 USB Bus:1 Port:6",
     "frequencyCorrection" : -1.3289187154433373,
     "autoPPMCorrectionEnabled" : true
   } ],

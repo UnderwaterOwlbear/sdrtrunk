@@ -21816,7 +21816,7 @@
     </source_configuration>
     <aux_decode_configuration/>
     <record_configuration/>
-    <decode_configuration type="decodeConfigP25Phase1" traffic_channel_pool_size="3" modulation="CQPSK" ignore_data_calls="true"/>
+    <decode_configuration type="decodeConfigP25Phase1" traffic_channel_pool_size="6" modulation="CQPSK" ignore_data_calls="true"/>
   </channel>
   <channel name="Control" enabled="false" site="Kalamazoo" order="0" system="Pharmacia and Upjohn (Pfizer)">
     <alias_list_name>Pfizer_Aliases</alias_list_name>
